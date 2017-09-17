@@ -12,4 +12,5 @@ The configuration assumes the left Joycon was paired before the right Joycon.
 
 TODO:
 * add support for single Joycon as controller
-* better names
+* better names for Joycon axes
+* ensure that Joycon are actually paired?
