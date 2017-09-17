@@ -14,3 +14,5 @@ TODO:
 * add support for single Joycon as controller
 * better names for Joycon axes
 * ensure that Joycon are actually paired?
+* analog joystick input?
+* accelerometer input?
